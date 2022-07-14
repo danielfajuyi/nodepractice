@@ -1,5 +1,5 @@
-const num1 = 5;
-const num2 = 10;
+const num1 = 87;
+const num2 = 156;
 
 function addValues() {
     console.log(`the sum is : ${num1 + num2}`)
